@@ -14,3 +14,7 @@
     height: 266px;
     display: inline;
 }
+.carousel {
+	margin: 10px 0px;
+	background-color: aqua;
+}

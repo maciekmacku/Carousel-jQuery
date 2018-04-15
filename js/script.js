@@ -4,8 +4,8 @@ $(function () {
 
 	function changeSlide() {
 		carouselList.animate({
-			'marginLeft': -600
-		}, 600, moveFirstSlide);
+			'marginLeft': -400
+		}, 450, moveFirstSlide);
 	}
 
 	function moveFirstSlide() {
