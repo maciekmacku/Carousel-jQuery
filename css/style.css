@@ -1,5 +1,16 @@
-.container {
-	border: 2px solid black;
-	display:flex;
-	text-align: center;
+.container{
+    width: 400px;
+    height: 266px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.container ul {
+    width: 2000px;
+    padding: 0;
+}
+.container ul li {
+    list-style: none;
+    width: 400px;
+    height: 266px;
+    display: inline;
 }
