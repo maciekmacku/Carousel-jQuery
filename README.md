@@ -1,1 +1,1 @@
-# Carousel-jQuery
+First Carousel with jquery technology
